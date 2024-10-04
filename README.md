@@ -40,9 +40,9 @@ This is a SwiftUI application that fetches and displays the most popular movies.
 
 The project follows the MVVM-C (Model-View-ViewModel-Clean) archeticture pattern:
 
-- **Domain Layer**: Contains entities. 
-- **Data Layer**: Contains repositories. 
-- **Presentation Layer**: Contains view models.
+- **Domain Layer**: Contains Repository Interface, UseCase and entities. 
+- **Data Layer**: Contains RepositoryImplementation and Network. 
+- **Presentation Layer**: Contains view models and views.
 
 ## Unit Testing
 
