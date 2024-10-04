@@ -29,7 +29,7 @@ This is a SwiftUI application that fetches and displays the most popular movies.
 
 ## Usage
 
-1. Replace the placeholder API key in `Constants.swift` with your valid New York Times API key:
+1. Replace the placeholder API key in `Constants.swift` with your valid API key:
     ```swift
     static let apiKey = "your-valid-api-key" // Replace with your valid API key
     ```
